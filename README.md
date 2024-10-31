@@ -16,8 +16,6 @@ This project is a **DoS (Denial of Service) attack utility**, designed to demons
 
 ## 🚀 Installation
 
-1. **Clone this repository:**
-
    ```bash
    git clone https://github.com/nonecitizen/Dos.git
    
